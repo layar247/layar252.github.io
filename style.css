@@ -5,9 +5,8 @@
 }
 h1 {
     font-size: 30px;
-    color: rgb(255, 187, 0);
+    color: darkred;
 }
-
 button {
     background-color: greenyellow;
 }
